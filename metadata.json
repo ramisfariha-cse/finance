@@ -1,0 +1,6 @@
+{
+  "name": "ClearSpend AI",
+  "description": "Production-quality personal finance application with natural language expense logging, evidence-based spending analytics, dynamic budgeting, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
